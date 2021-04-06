@@ -1,5 +1,5 @@
 
-num1 = int(input('ingrese su numero'))
+numero = int(input('ingrese su numero'))
 
 if (numero > 0):
     print('es positivo')
